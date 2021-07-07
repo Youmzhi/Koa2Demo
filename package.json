@@ -1,0 +1,28 @@
+{
+  "name": "Koa2Demo",
+  "version": "1.0.0",
+  "description": "跟随胖哥挑战全栈Koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youmzhi/Koa2Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youmzhi/Koa2Demo/issues"
+  },
+  "homepage": "https://github.com/Youmzhi/Koa2Demo#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^3.2.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^7.0.1"
+  }
+}
